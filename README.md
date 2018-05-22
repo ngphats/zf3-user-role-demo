@@ -11,12 +11,16 @@ This sample is based on *User Demo* sample. It shows how to:
 
 ## Installation
 
-You need to have Apache 2.4 HTTP server, PHP v.5.6 or later with `gd` and `intl` extensions, and MySQL 5.6 or later.
+You need to have Apache 2.4 HTTP server, PHP v.7 or later with `gd` and `intl` extensions, and MySQL 5.6 or later.
 
-Download the sample to some directory (it can be your home dir or `/var/www/html`) and run Composer as follows:
+Download the sample to some directory and run Composer as follows:
 
 ```
 php composer install
 ```
 
 The command above will install the dependencies (Zend Framework and Doctrine).
+
+## Reference
+
+https://github.com/olegkrivtsov/using-zf3-book-samples/
